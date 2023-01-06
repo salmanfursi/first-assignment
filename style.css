@@ -78,7 +78,7 @@
 
 .sec-descripton {
     width: 340px;
-    margin-bottom: 16px;
+    margin-bottom: 18px;
     line-height: 26px;
 }
 
@@ -91,17 +91,29 @@
 
 .list-style {
     /* list-style: url('new-year-new-me-main/new-year-new-me-main/images/checkmark-xxl.png'); */
-    font-size: 3em;
+    
    
 
    
 }
 .checkmark{
-    /* list-style: url('new-year-new-me-main/new-year-new-me-main/images/checkmark-xxl.png'); */
-    /* display: inline-block; */
+    
+    /* list-style:url('check.png');
+    width: 3tini; */
    
     
   }
 
 
-}
+
+  li{
+    list-style: none;
+    background-size: 26px;
+    height: 28px;
+    /* margin-right: 100px; */
+    /* width: 10px; */
+    background-image:url('checkmark.png');
+    background-repeat: no-repeat;
+    padding-left: 45px;
+    
+  }

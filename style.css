@@ -74,14 +74,8 @@
     justify-content: space-between;
     align-items: center;
     
-
-
 }
 /* div1 */
-.divright{
-    
-    
-}
  
 /* section 45 start */
 
@@ -95,6 +89,7 @@
     margin-bottom: 24px;
     font-weight: 700;
     font-size: 35px;
+    padding-left: 34px;
 
 }
 
@@ -102,6 +97,7 @@
     width: 340px;
     margin-bottom: 18px;
     line-height: 26px;
+    padding-left: 35px;
 }
 
 /* list ul list */

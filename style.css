@@ -85,9 +85,23 @@
 /* list ul list */
 .list-style li {
     margin-bottom: 8px;
+    list-style: images('.');
 
 }
 
 .list-style {
+    /* list-style: url('new-year-new-me-main/new-year-new-me-main/images/checkmark-xxl.png'); */
+    font-size: 3em;
    
+
+   
+}
+.checkmark{
+    /* list-style: url('new-year-new-me-main/new-year-new-me-main/images/checkmark-xxl.png'); */
+    /* display: inline-block; */
+   
+    
+  }
+
+
 }

@@ -1,47 +1,93 @@
-/* banner */
-.banner{
-    text-align: right;
-     
+* {
+    margin: 0;
 }
-.banner-2{
+
+
+/* 19 banner,,background image */
+.banner {
+    background-image: url('new-year-new-me-main/new-year-new-me-main/images/banner/banner1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+
+/* 22 banner-2 all letters with button  */
+.banner-2 {
     margin-right: 80px;
-    margin-top: 50px;
-    
+    margin-top: 0px;
+    padding-top: 120px;
+
 }
 
 
-/* h1 */
-.h1-banner{
-   text-align: right;
+/* 21 h1 head line */
+.h1-banner {
+    text-align: right;
     width: 250px;
     font-family: 'Open Sans', sans-serif;
-                 
-    
+
+
 }
 
-/* description */
+/* 26 description */
 
-.p-description{
-  
-    width:  394px;
+.p-description {
+    text-align: right;
+    width: 394px;
     margin-top: auto;
 }
-.div-des{
+
+.div-des {
     display: flex;
     justify-content: right;
     margin-bottom: px;
 
 }
 
-/* contact button */
-.btn{
+/* 32 contact button */
+.btn {
     color: azure;
     background-color: darkorange;
     border-radius: 5px;
-    border:none;
+    border: none;
     width: 100px;
     height: 35px;
     margin-top: auto;
 
+
 }
 
+.btn2 {
+    text-align: right;
+}
+
+/* header closed 39 */
+
+/* section 45 start */
+
+
+.sec-tittle {
+    font-family: 'Open Sans', sans-serif;
+    width: 320px;
+    margin-bottom: 24px;
+    font-weight: 700;
+    font-size: 35px;
+
+}
+
+.sec-descripton {
+    width: 340px;
+    margin-bottom: 16px;
+    line-height: 26px;
+}
+
+/* list ul list */
+.list-style li {
+    margin-bottom: 8px;
+
+}
+
+.list-style {
+   
+}

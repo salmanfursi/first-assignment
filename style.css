@@ -1,0 +1,41 @@
+/* banner */
+.banner{
+    text-align: right;
+     
+}
+.banner-2{
+    
+    
+}
+
+
+/* h1 */
+.h1-banner{
+   text-align: right;
+    width: 250px;
+    font-family: 'Open Sans', sans-serif;
+                 
+    
+}
+
+/* description */
+
+.p-description{
+  
+    width: 400px;
+}
+.div-des{
+    display: flex;
+    justify-content: right;
+}
+
+/* contact button */
+.btn{
+    color: azure;
+    background-color: darkorange;
+    border-radius: 5px;
+    border:none;
+    width: 100px;
+    height: 35px;
+
+}

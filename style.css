@@ -251,6 +251,18 @@ div,p{
     line-height: 20px;
 
 }
+.btn3{
+    margin-top: 12px;
+    padding: 8px;
+    border-radius: 6px;
+    border: none;
+    background: orangered;
+    font-weight: bold;
+    font-style: normal;
+}
+.social{
+    margin-top: 10px;
+}
 
 
 

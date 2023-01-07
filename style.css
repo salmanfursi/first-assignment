@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    
 }
 
 
@@ -184,8 +185,7 @@
     margin-bottom: 50px;
     border-radius: 10px;
     height: 150px;
-    /* graden ta background korechi */
-    background-image: url('../../gradient2.png'),url('../../watch.png');
+    background-image: url('gradient2.png'),url('watch.png');
     width: 80%;
     background-size: cover;
     justify-content: center;
@@ -236,7 +236,7 @@
 }
 
 .foot{
-    background-color: olive;
+    background-color: rgb(122, 122, 28);
 
 }
 div,p{
@@ -271,19 +271,6 @@ div,p{
 
 
 
-
-/* 
-
-.foter-des{
-    width: 485px;
-}
-.fotar-bgcolor{
-   
-    background-color:#151414;
-    color: white;
-    font-size: 12px;
-    font-weight: 200;
-} */
 
 
 

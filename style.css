@@ -168,14 +168,37 @@
 
  /* 111 sectin 3 linearGradient */
 
+/* 
+.gradenpic{
+    height: 150px;
+    margin-left: 230px;
+    margin-top: 100px;
+    background: linear-gradient((90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%););
+     
+} */
 
-.graden{
+
+.graden {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    height: 150px;
     background-image: url('../../watch.png');
+    width: 80%;
+    background-size: cover;
+    color: white;
+}
+.par-graden{
+    margin-left: 170px;
+
+    
 }
 
 
- /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); */
-border-radius: 8px;
+
+
+
+ 
 
 
 

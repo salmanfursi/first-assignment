@@ -183,23 +183,17 @@
     margin-top: 50px;
     margin-bottom: 50px;
     border-radius: 10px;
-    
     height: 150px;
-    background-image: ;
+    /* graden ta background korechi */
     background-image: url('../../gradient2.png'),url('../../watch.png');
-
     width: 80%;
     background-size: cover;
-    
-
     justify-content: center;
 }
-
 
 .par-graden{
     margin-left: 170px; 
 }
-
 
 .gradtop{
     height: 150px;
@@ -213,7 +207,6 @@
     border-radius: 5px;
     border: none;
     padding: 6px;
-
 }
 
 .grad-contant{
@@ -226,7 +219,8 @@
     
 }
 
-/* graden ta background kore devo */
+
+
 
 
 

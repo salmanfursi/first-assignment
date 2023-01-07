@@ -137,17 +137,18 @@
   }
 
 
-
-
-
-
   /* 75 section 2 */
+  div ,h3{
+    font-family: 'Open Sans', sans-serif;
+    
+  }
 
 
   .myplan{
     text-align: center;
     margin-top: 40px;
     font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
   }
 
   .work{

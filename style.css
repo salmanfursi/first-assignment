@@ -98,6 +98,7 @@
     margin-bottom: 18px;
     line-height: 26px;
     padding-left: 35px;
+    
 }
 
 /* list ul list */
@@ -184,7 +185,9 @@
     border-radius: 10px;
     
     height: 150px;
-    background-image: url('../../watch.png');
+    background-image: ;
+    background-image: url('../../gradient2.png'),url('../../watch.png');
+
     width: 80%;
     background-size: cover;
     
@@ -222,6 +225,9 @@
     width: 300px;
     
 }
+
+/* graden ta background kore devo */
+
 
 
 

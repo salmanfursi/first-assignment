@@ -219,9 +219,59 @@
     
 }
 
+/* footer start hare */
+    
+
+.need-flex{
+    height: 270px;
+    padding: 90px;
+    margin-left: 80px;
+    margin-right: 80px;
+    display: flex;
+    justify-content: space-between;
+
+}
+#des{
+    width: 380px;
+}
+
+.foot{
+    background-color: olive;
+
+}
+div,p{
+    gap:10px;
+}
+.pemail{
+    padding-top: 10px;
+
+}
+.pphon{
+
+    line-height: 20px;
+
+}
 
 
 
+
+
+
+
+
+
+/* 
+
+.foter-des{
+    width: 485px;
+}
+.fotar-bgcolor{
+   
+    background-color:#151414;
+    color: white;
+    font-size: 12px;
+    font-weight: 200;
+} */
 
 
 
